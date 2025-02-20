@@ -1,0 +1,13 @@
+{
+  "author": "Dorai Sitaram"
+  "name": "basic-travis-example",
+  "description": "An example project that uses travis-ci.org for continuous integration",
+  "version": "0.0.0",
+  "homepage": "http://github.com/ds26gte/basic-travis-example",
+  "repository": {
+    "url": "http://github.com/ds26gte/basic-travis-example"
+  },
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
